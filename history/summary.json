@@ -22,17 +22,19 @@
     "url": "https://sorters.nekono.su",
     "icon": "https://icons.duckduckgo.com/ip3/sorters.nekono.su.ico",
     "slug": "sorters",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 1321,
-    "timeWeek": 886,
-    "timeMonth": 886,
-    "timeYear": 886,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "96.35%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "96.35%",
+    "uptimeYear": "96.35%",
+    "time": 881,
+    "timeDay": 1091,
+    "timeWeek": 881,
+    "timeMonth": 881,
+    "timeYear": 881,
+    "dailyMinutesDown": {
+      "2025-11-21": 62
+    }
   }
 ]
